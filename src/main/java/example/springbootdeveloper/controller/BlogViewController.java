@@ -35,5 +35,5 @@ public class BlogViewController {
 
         return "article";
     }
-    
+
 }
